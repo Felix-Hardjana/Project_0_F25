@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "random.h"
+
 
 void rand_string(char *s, size_t size){
 

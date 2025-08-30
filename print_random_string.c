@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "random.h"
+
 
 void rand_string(char *s, size_t size); 
 
