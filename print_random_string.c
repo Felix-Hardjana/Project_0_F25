@@ -23,7 +23,7 @@ int main()
 
 {
     char *str;
-    size_t size =  5;  //specify a value for size of word
+    size_t size =  10;  //specify a value for size of word
 
 	/* seed the randomizer */
 	srand( (unsigned)time(NULL) );
