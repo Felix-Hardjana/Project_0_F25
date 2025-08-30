@@ -5,7 +5,7 @@
 #include <time.h>
 
 
-void rand_string(char *s, size_t size); 
+void rand_string(char *s, size_t size); // declaring the function
 
 // random string generator wrapper function
 char* rand_string_alloc(size_t size)
